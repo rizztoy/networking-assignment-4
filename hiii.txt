@@ -1,0 +1,1 @@
+hi yanu my name is ritika i'm a stuydent of msc-cs-5 and i'm writing this to understand ftp simulation using udp.
